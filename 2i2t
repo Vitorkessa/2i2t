@@ -1,0 +1,1304 @@
+<html>
+    <head>
+        <title>Desafio</title>
+    </head>
+        <link rel="stylesheet" href="estilo.css">
+    <body>
+        <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+    <div class="linha">
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+
+        <div class="verde"></div>
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+    </div>
+    <div class="linha">
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+
+        <div class="amarelo"></div>
+        <div class="azul"></div>
+        <div class="vermelho"></div>
+        <div class="verde"></div>
+    </div>
+
+
+
+
+
+    </body>
+</html>
+ 35 changes: 35 additions & 0 deletions35  
+2i2t/estilo.css
+@@ -0,0 +1,35 @@
+
+* {
+    margin:0;
+    padding: 0;
+
+}
+.verde {
+    width: 2.5%;
+    height: 100%;
+    background-color: green;
+
+}
+.amarelo {
+    width: 2.5%;
+    height: 100%;
+    background-color:yellow;
+
+}
+.azul{
+    width: 2.5%;
+    height: 100%;
+    background-color: blue;
+
+}
+.vermelho {
+    width: 2.5%;
+    height: 100%;
+    background-color:red;
+
+}
+.linha {
+    display: flex;
+    width: 100%;
+    height: 4%;
+}
+0 comments on commit 81eea54
+@Vitorkessa
+ 
+Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
+Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
+Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
+Directly mention a user or team
+Reference an issue, pull request, or discussion
+Add saved reply
+Leave a comment
+Nenhum arquivo escolhido
+Attach files by dragging & dropping, selecting or pasting them.
+Styling with Markdown is supported
+ You’re not receiving notifications from this thread.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Add files via upload · CalebeKun/2i2t@81eea54
